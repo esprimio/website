@@ -1,0 +1,43 @@
+baseURL = "https://esprim.io/"
+languageCode = "en-us"
+title = "Esprim's website"
+
+canonifyURLs = true
+enableEmoji = true
+#googleAnalytics = "UA-XXXXXX-1"
+
+theme = "hello-friend-ng"
+
+[params]
+    portrait = "img/portrait.jpg"
+
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "All Articles"
+  url = "/all/"
+  weight = 2
+
+
+[[menu.projects]]
+  name = "Pristine - A Hugo Theme"
+  url = "https://github.com/sakibccr/pristine"
+  weight = 1
+
+
+[[params.social]]
+    title = "Email"
+    url = "mailto:j@esprim.io"
+[[params.social]]
+    title = "Follow @esprimio"
+    url = "https://twitter.com/esprimio"
+[[params.social]]
+    title = "Github"
+    url = "https://github.com/esprimio"
+#[[params.social]]
+#    title = "Facebook"
+#    url = "https://facebook.com/johndoe"
