@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
-title = "Esprim's website"
+title = "Esprim's website ₿"
 
 canonifyURLs = true
 enableEmoji = true
