@@ -63,6 +63,10 @@ enableEmoji = true
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+  [[menu.main]]
+    identifier = "nostr"
+    name       = "Nostr"
+    url        = "/.well-known"
 
 
 
